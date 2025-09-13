@@ -1,1 +1,3 @@
 In this project, my speech is recognized via Google's speech recognition API and transformed into ASCII Code and sent to FPGA via UART and then again sent via UART to Arduino Uno. After the Arduino receives the message, using I2C Communication Protocol, the Latin characters are shown on LCD Driver.
+
+https://youtube.com/shorts/iedfzhKHqhY - The video link where the system can be seen while working.
